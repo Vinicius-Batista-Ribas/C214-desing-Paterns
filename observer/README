@@ -1,0 +1,5 @@
+# Projeto de C214
+
+## Desing Paterns
+
+ultilizando o Observer, o programa le uma frase escrita pelo usuario e retorna com, quantidade de palavras, quantidade de palavras pares e quantidade de palavras que começam em UpperCase
